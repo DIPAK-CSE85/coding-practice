@@ -1,6 +1,6 @@
 # coding-practice
 This is my first Git repository 
 <br/>
-Auther:Dipak Shivankar
+Auther:Dipak Sudhakar Shivankar
 <br/>
 Discription:This is my first coding prctice
